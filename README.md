@@ -15,9 +15,11 @@ Get the newest version from **[Releases](https://github.com/dev-adalz/teachify-h
 
 ## Set up
 
-1. Install and open the helper.
-2. On TeachifyBD, go to **Messages → Your WhatsApp** and press **I've installed it, give me a code**.
-3. Type the code into the helper, then link your WhatsApp number.
+1. On TeachifyBD, go to **Messages → Your WhatsApp**, read the note, tick it and press **Start**.
+2. Install and open the helper, and type in the code shown on that page.
+3. A QR code appears in the helper. On your phone open **WhatsApp → Linked devices → Link a device** (Android: **⋮** menu; iPhone: **Settings**) and scan it. The page shows **Connected** by itself.
+
+The helper's title bar shows its version (for example "TeachifyBD Helper 0.3.4").
 
 Windows or Mac may warn that the app is from an unknown developer the first time. On Windows choose **More info → Run anyway**; on Mac right-click the app and choose **Open**.
 
